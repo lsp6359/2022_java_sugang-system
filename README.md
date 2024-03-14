@@ -29,12 +29,19 @@
 # 7. 실행 화면
 
 1. 로그인 화면
+
    ![image](https://github.com/lsp6359/2022_java_sugang-system/assets/130120597/fb1bf4ab-caf2-495d-97fa-de16158b8e3a)
+
 2. 수강신청 화면
+
    ![image](https://github.com/lsp6359/2022_java_sugang-system/assets/130120597/69981790-f7ab-4158-80ff-26f678c835b1)
+
 3. 관리자 계정 화면 (강의를 추가, 삭제시키는 장면)
+
    ![image](https://github.com/lsp6359/2022_java_sugang-system/assets/130120597/00355c23-4175-4bae-b743-ab9ad8922714)
+
 4. 관리자 계정 화면 (가입된 계정을 조회, 제거 시킬 수 있는 화면)
+
    ![image](https://github.com/lsp6359/2022_java_sugang-system/assets/130120597/167dbc60-9926-438c-981f-a40a8793d602)
 
 # 8. 프로그램 설명
@@ -48,3 +55,7 @@ Login : 학생들의 아이디, 패스워드가 들어가있는 테이블
 # 9. etc
 
 mysql을 넣어놓지 않았기 때문에 실행시키기 위해선 mysql의 test 데이터베이스가 필요하다. (password : 1234)
+
+2022 목원대학교 정보통신융합공학부 종합학술제 우수상 수상
+
+![image](https://github.com/lsp6359/2022_java_sugang-system/assets/130120597/3f8b8110-80ce-48ca-bee3-09d0afd99fee)
