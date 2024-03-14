@@ -97,7 +97,7 @@ public class LogIn {
 			String url = "jdbc:mysql://localhost:3306/test?serverTimezone=UTC";
 			
 			Class.forName(driver);
-			Connection con = DriverManager.getConnection(url, "root", "6359");
+			Connection con = DriverManager.getConnection(url, "root", "1234");
 			System.out.println("mysql 데이터베이스에 성공적으로 접속했습니다.");
 		
 			return con;
